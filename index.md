@@ -3,9 +3,9 @@ title: Welcome to my blog
 ---
 
 
-To the Melbourians reading this 								
+## To the Melbourians reading this 								
 	1. Make your own lists							
 	2. Tell me how to fix this list							
 								
-Jack's thought dump on Melbourne								
+## Jack's thought dump on Melbourne								
 	It took me 5 years in UK to realise how good Melbourne. Here are all the  thoughts I'd pass over to a traveller coming to Melbourne							
